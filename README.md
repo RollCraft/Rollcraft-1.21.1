@@ -7,6 +7,7 @@ We are currently working on Singleplayer.
 Minecraft is a TM of Mojang Studios and Microsft. Eaglercraft is a community driven project and IT IS FREE.
 # WIP:
 Now Fixing Code, fixing panorama!
-Mojang logo
-Eagtek logo
-singleplayer worlds
+,Mojang logo
+,Eagtek logo
+,singleplayer worlds
+,
